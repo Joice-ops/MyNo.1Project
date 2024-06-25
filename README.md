@@ -9,7 +9,7 @@ Disneyland is a place where dreams come true, and each resort offers unique expe
 ## Features
 - **User Ratings and Comments:** Allow users to rate their experiences and leave comments, creating a community of Disney enthusiasts sharing their insights.
 - **Search and Filter:** Easily find reviews based on specific criteria such as resort, year, and rating.
-- **Duffy Friends Collection:** A dedicated section showcasing my collection of Duffy Friends toys, with stories and photos.
+- **Duffy Friends Collection:** A section sharing my collection of Duffy Friends toys, with stories and photos.
 
 ## Dataset
 The dataset used for this project contains 42,000 reviews of 3 Disneyland branches: Hong Kong Disneyland, Disneyland Resort in California, and Disneyland Paris. 
@@ -37,5 +37,7 @@ As a devoted Disney fan, I have a special love for Duffy Friends toys. Here's a 
 ![CookieAnn](https://github.com/Joice-ops/MyNo.1Project/blob/main/CookieAnn.jpg)
 CookieAnn, the baking dog, is always ready to cook up something fun. She reminds me of the delicious treats and wonderful experiences I've had at various Disney parks.
 #### LinaBell
-![LinaBell]()
+![LinaBell](https://github.com/Joice-ops/MyNo.1Project/blob/main/Linabell.jpg)
 LinaBell is a clever and inquisitive fox who loves solving mysteries. She joined the Duffy Friends family with her sharp mind and a heart full of curiosity. She brings a touch of mystery and excitement to my collection, reminding me of the joy of exploration and discovery.
+
+They are my top 2 characters in the collection. The other 5 friends are Duffy(the original Disney bear), ShellieMay(Duffy's best friend, a lovely bear), Gelatoni(the artistic cat, is known for his creativity), StellaLou(the aspiring dancer bunny, inspires dreams and perseverance), and Olu Mel(the musical turtle from Aulani, brings Hawaiian vibes).
