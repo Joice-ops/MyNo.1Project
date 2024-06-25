@@ -34,5 +34,8 @@ You can download the dataset from the following link: [Disneyland Reviews](https
 ## Duffy Friends Collection
 As a devoted Disney fan, I have a special love for Duffy Friends toys. Here's a glimpse into my cherished collection, showcasing each character with photos and personal stories.
 #### CookieAnn 
-![CookieAnn](
+![CookieAnn](https://github.com/Joice-ops/MyNo.1Project/blob/main/CookieAnn.jpg)
 CookieAnn, the baking dog, is always ready to cook up something fun. She reminds me of the delicious treats and wonderful experiences I've had at various Disney parks.
+#### LinaBell
+![LinaBell]()
+LinaBell is a clever and inquisitive fox who loves solving mysteries. She joined the Duffy Friends family with her sharp mind and a heart full of curiosity. She brings a touch of mystery and excitement to my collection, reminding me of the joy of exploration and discovery.
